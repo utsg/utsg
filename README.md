@@ -1,16 +1,15 @@
-### Hi there 👋
+[![homepage][1]][2]
 
-<!--
-**utsg/utsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[2]:  https://www.linkedin.com/in/kirill-tokarev-a30ba8194/
+***
 
-Here are some ideas to get you started:
+Solution-driven developer with 3 years of IT experience, strong knowledge of DevOps methodology, and all phases of the software development life cycle. Experience in applying Agile methodology for requirement analysis, design, coding, testing, implementation, and maintenance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming: Java, Groovy, Python, Bash
+- Infrastructure: Ansible
+- Monitoring: Grafana, Prometheus
+- Logging: ELK
+- CI/CD: Docker, Jenkins, GitlabCI, Kubernetes
+
+mail - tokarevki2997@gmail.com 
