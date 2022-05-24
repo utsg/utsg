@@ -6,10 +6,10 @@
 
 Solution-driven developer with 3 years of IT experience, strong knowledge of DevOps methodology, and all phases of the software development life cycle. Experience in applying Agile methodology for requirement analysis, design, coding, testing, implementation, and maintenance.
 
-- Programming: Java, Groovy, Python, Bash
+- Programming: Golang, Java, Groovy, Python, Bash
 - Infrastructure: Ansible
 - Monitoring: Grafana, Prometheus
-- Logging: ELK
-- CI/CD: Docker, Jenkins, GitlabCI, Kubernetes
+- Logging: ELK, EFK
+- CI/CD: Docker, Jenkins, TeamCity, GitlabCI, Kubernetes, Helm
 
 mail - tokarevki2997@gmail.com 
